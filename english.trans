@@ -342,7 +342,7 @@ _RefiErrBody="\nThe rEFInd installation script will not work unless the UEFI par
 
 # ALSA, Xorg, Input
 _AXITitle=" ALSA, Xorg, and Input "
-_AXIBody="\nBefore installing graphics card driver(s) or desktop environments, other packages are needed first:\n\nalsa - Advanced Linux Sound Architecture\nxorg-* - open-source X window system for graphics\nxf86-input-* - open-source drivers for input devices\n\n"
+_AXIBody="\nBefore installing graphics card driver(s) or desktop environments, other packages are needed first:\n\nalsa - Advanced Linux Sound Architecture - For sound\nxorg-* - open-source X window system for graphics - The base desktop\nxf86-input-* - open-source drivers for input devices\n\n"
 
 # Graphics Card Menu
 _GCtitle=" Graphics Card Menu "
